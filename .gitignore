@@ -14,10 +14,8 @@ project/plugins/project/
 .history
 .cache
 .lib/
-
 ### Scala ###
 *.class
 *.log
-
-# End of https://www.gitignore.io/api/sbt,scala
 .bsp/
+# End of https://www.gitignore.io/api/sbt,scala
